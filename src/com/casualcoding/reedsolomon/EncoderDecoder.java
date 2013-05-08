@@ -15,7 +15,8 @@ import com.google.zxing.common.reedsolomon.ReedSolomonException;
  * Data can only be encoded/decoded in 256 byte chunks, which is a limitation
  * of the Reed-Solomon classes that this class wraps
  * 
- * @author Blake Hamilton
+ * @author Blake Hamilton <blake.a.hamilton@gmail.com>
+ * 		   http://www.casual-coding.blogspot.com/
  * @version 1.0	 
  *
  */
